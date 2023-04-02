@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tic-toc-game-reactjs.git/static/css/main.e5272d3c.css",
+    "main.js": "/tic-toc-game-reactjs.git/static/js/main.a996112b.js",
+    "static/js/787.d3befce1.chunk.js": "/tic-toc-game-reactjs.git/static/js/787.d3befce1.chunk.js",
+    "index.html": "/tic-toc-game-reactjs.git/index.html",
+    "main.e5272d3c.css.map": "/tic-toc-game-reactjs.git/static/css/main.e5272d3c.css.map",
+    "main.a996112b.js.map": "/tic-toc-game-reactjs.git/static/js/main.a996112b.js.map",
+    "787.d3befce1.chunk.js.map": "/tic-toc-game-reactjs.git/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5272d3c.css",
+    "static/js/main.a996112b.js"
+  ]
+}
